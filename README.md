@@ -1,0 +1,1 @@
+UHHH yeah, drag the UI_Hotkeys.swf file into your brawlhalla folder(C:\Program Files (x86)\Steam\steamapps\common\Brawlhalla) and replace the file in there. You can find the file the the white or black folders(Controller color in game)
